@@ -1,0 +1,670 @@
+[{
+  "data": {
+    "id": "0",
+    "name": "Mariano Rajoy Brey",
+    "score": 10,
+    "query": false,
+    "gene": false
+  },
+  "position": {
+    "x": 100,
+    "y": 100
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": true,
+  "grabbed": false,
+  "grabbable": false,
+  "classes": "PP",
+  "cargos": ["Presidente de Gobierno"]
+},
+{
+  "data": {
+    "id": "e1_1",
+    "source": "0",
+    "target": "1", 
+    "relacion": "Vicepresidenta del Gobierno"
+  }
+},
+{
+  "data": {
+    "id": "e1_2",
+    "source": "0",
+    "target": "1", 
+    "relacion": "Presidencia"
+  }
+},
+{
+  "data": {
+    "id": "e1_3",
+    "source": "0",
+    "target": "1",
+    "relacion": "Portavoz del Gobierno"
+  }
+},
+{
+  "data": {
+    "id": "1",
+    "name": "María Soraya Sáenz de Santamaría Antón",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargo": ["Vicepresidenta del Gobierno", "Presidencia", "Portavoz del Gobierno"]
+  },
+{
+  "data": {
+    "id": "e2_1",
+    "source": "0",
+    "target": "2",
+    "relacion": "Asuntos Exteriores y de Cooperación"
+  }
+},
+{
+  "data": {
+    "id": "2",
+    "name": "José Manuel García-Margallo y Marfil",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Asuntos Exteriores y de Cooperación"]
+  },
+{
+  "data": {
+    "id": "e3_1",
+    "source": "0",
+    "target": "3",
+    "relacion": "Justicia"
+  }
+},
+{
+  "data": {
+    "id": "3",
+    "name": "Alberto Ruiz-Gallardón Jiménez",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Justicia"]
+  },
+{
+  "data": {
+    "id": "e4_1",
+    "source": "0",
+    "target": "4",
+    "relacion": "Justicia"
+  }
+},
+{
+  "data": {
+    "id": "4",
+    "name": "Rafael Catalá Polo",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Justicia"]
+  },
+{
+  "data": {
+    "id": "e5_1",
+    "source": "0",
+    "target": "5",
+    "relacion": "Defensa"
+  }
+},
+{
+  "data": {
+    "id": "5",
+    "name": "Pedro de Morenés y Álvarez de Eulate",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Defensa"]
+  },
+{
+  "data": {
+    "id": "e6_1",
+    "source": "0",
+    "target": "6",
+    "relacion": "Hacienda y Administraciones Públicas"
+  }
+},
+{
+  "data": {
+    "id": "6",
+    "name": "Cristóbal Ricardo Montoro Romero",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Hacienda y Administraciones Públicas"]
+  },
+{
+  "data": {
+    "id": "e7_1",
+    "source": "0",
+    "target": "7",
+    "relacion": "Interior"
+  }
+},
+{
+  "data": {
+    "id": "7",
+    "name": "Jorge Fernández Díaz",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Interior"]
+  },
+{
+  "data": {
+    "id": "e8_1",
+    "source": "0",
+    "target": "8",
+    "relacion": "Fomento"
+  }
+},
+{
+  "data": {
+    "id": "8",
+    "name": "Ana María Pastor Julián",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Fomento"]
+  },
+{
+  "data": {
+    "id": "e9_1",
+    "source": "0",
+    "target": "9",
+    "relacion": "Educación, Cultura y Deporte"
+  }
+},
+{
+  "data": {
+    "id": "9",
+    "name": "José Ignacio Wert Ortega",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Educación, Cultura y Deporte"]
+  },
+{
+  "data": {
+    "id": "e10_1",
+    "source": "0",
+    "target": "10",
+    "relacion": "Educación, Cultura y Deporte"
+  }
+},
+{
+  "data": {
+    "id": "e10_2",
+    "source": "0",
+    "target": "10",
+    "relacion": "Portavoz del gobierno"
+  }
+},
+{
+  "data": {
+    "id": "10",
+    "name": "Íñigo Méndez de Vigo y Montojo",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Educación, Cultura y Deporte"]
+  },
+{
+  "data": {
+    "id": "e11_1",
+    "source": "0",
+    "target": "11",
+    "relacion": "Empleo y Seguridad Social"
+  }
+},
+{
+  "data": {
+    "id": "11",
+    "name": "María Fátima Báñez García",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Empleo y Seguridad Social"]
+  },
+{
+  "data": {
+    "id": "e12_1",
+    "source": "0",
+    "target": "12",
+    "relacion": "Industria, Energía y Turismo"
+  }
+},
+{
+  "data": {
+    "id": "12",
+    "name": "José Manuel Soria López",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Industria, Energía y Turismo"]
+  },
+{
+  "data": {
+    "id": "e13_1",
+    "source": "0",
+    "target": "13",
+    "relacion": "Agricultura, Alimentación y Medio Ambiente"
+  }
+},
+{
+  "data": {
+    "id": "13",
+    "name": "Miguel Arias Cañete",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Agricultura, Alimentación y Medio Ambiente"]
+  },
+{
+  "data": {
+    "id": "e14_1",
+    "source": "0",
+    "target": "14",
+    "relacion": "Agricultura, Alimentación y Medio Ambiente"
+  }
+},
+{
+  "data": {
+    "id": "14",
+    "name": "Isabel García Tejerina",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Agricultura, Alimentación y Medio Ambiente", "Agricultura, Pesca, Alimentación y Medio Ambiente"]
+  },
+{
+  "data": {
+    "id": "e15_1",
+    "source": "0",
+    "target": "15",
+    "relacion": "Economía y Competitividad"
+  }
+},
+{
+  "data": {
+    "id": "15",
+    "name": "Luis de Guindos Jurado",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Economía y Competitividad", "Economía, Industria y Competitividad"]
+  },
+{
+  "data": {
+    "id": "e16_1",
+    "source": "0",
+    "target": "16",
+    "relacion": "Sanidad, Servicios Sociales e Igualdad"
+  }
+},
+{
+  "data": {
+    "id": "16",
+    "name": "Ana Mato Adrover",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Sanidad, Servicios Sociales e Igualdad"]
+  },
+{
+  "data": {
+    "id": "e17_1",
+    "source": "0",
+    "target": "17",
+    "relacion": "Sanidad, Servicios Sociales e Igualdad"
+  }
+},
+{
+  "data": {
+    "id": "17",
+    "name": "Alfonso Alonso Aranegui",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Sanidad, Servicios Sociales e Igualdad"]
+  },
+{
+  "data": {
+    "id": "e18_1",
+    "source": "0",
+    "target": "18",
+    "relacion": "Asuntos Exteriores y de Cooperación"
+  }
+},
+{
+  "data": {
+    "id": "18",
+    "name": "Alfonso María Dastis Quecedo",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Asuntos Exteriores y de Cooperación"]
+  },
+{
+  "data": {
+    "id": "e19_1",
+    "source": "0",
+    "target": "19",
+    "relacion": "Defensa"
+  }
+},
+{
+  "data": {
+    "id": "19",
+    "name": "María Dolores de Cospedal García",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Defensa"]
+  },
+{
+  "data": {
+    "id": "e20_1",
+    "source": "0",
+    "target": "20",
+    "relacion": "Interior"
+  }
+},
+{
+  "data": {
+    "id": "20",
+    "name": "Juan Ignacio Zoido Álvarez",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Interior"]
+  },
+{
+  "data": {
+    "id": "e21_1",
+    "source": "0",
+    "target": "21",
+    "relacion": "Fomento"
+  }
+},
+{
+  "data": {
+    "id": "21",
+    "name": "Íñigo Joaquín de la Serna Hernáiz",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Fomento"]
+  },
+{
+  "data": {
+    "id": "e22_1",
+    "source": "0",
+    "target": "22",
+    "relacion": "Energía, Turismo y Agenda Digital"
+  }
+},
+{
+  "data": {
+    "id": "22",
+    "name": "Álvaro Nadal Belda",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Energía, Turismo y Agenda Digital"]
+  },
+{
+  "data": {
+    "id": "e23_1",
+    "source": "0",
+    "target": "23",
+    "relacion": "Economía, Industria y Competitividad"
+  }
+},
+{
+  "data": {
+    "id": "23",
+    "name": "Román Escolano Olivares",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Economía, Industria y Competitividad"]
+  },
+{
+  "data": {
+    "id": "e23_1",
+    "source": "0",
+    "target": "23",
+    "relacion": "Sanidad, Servicios Sociales e Igualdad"
+  }
+},
+{
+  "data": {
+    "id": "23",
+    "name": "Dolors Montserrat Montserrat",
+    "score": 5,
+    "query": false,
+    "gene": false
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": false,
+  "locked": false,
+  "grabbed": false,
+  "grabbable": true,
+  "classes": "PP",
+  "cargos": ["Sanidad, Servicios Sociales e Igualdad"]
+  }]
